@@ -5,4 +5,4 @@ array.each do |number|
 end
  return [new_array]
 end 
- square_array ([1,2,3])
+ square_array [1,2,3]
