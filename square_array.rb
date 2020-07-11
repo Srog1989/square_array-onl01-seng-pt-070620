@@ -1,3 +1,3 @@
 def square_array(array)
-  new_array |number|
-  
+  new_array []
+  square_array each.do
