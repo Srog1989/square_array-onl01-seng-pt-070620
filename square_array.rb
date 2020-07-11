@@ -5,3 +5,4 @@ array each.do |number|
 end
 return [new_array]
 end 
+square_array
